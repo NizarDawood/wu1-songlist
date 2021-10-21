@@ -1,0 +1,28 @@
+html,body{
+    padding: ;
+    margin: ;
+    background-color: rgb(86, 92, 180);
+    color: black;
+}
+nav {
+    background-color: rgb(211, 39, 39);
+    color: rgb(177, 128, 55);
+}
+
+.container {
+    max-width: 48rem;
+    width: 100% ;
+padding-right: 1rem;
+padding: left 1rem;;
+margin-right: auto;
+margin-left: auto;
+ }
+
+.record__header {
+
+    display: flex;
+    align-items: center;
+    justify-self: space-evenly;
+
+
+}
